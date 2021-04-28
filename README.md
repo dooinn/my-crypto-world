@@ -8,7 +8,7 @@ Simple Cyrpto currency tracker app create with React.
 2. [Technologies](#technologies)
 3. [Setup](#setup)
 4. [Features](#features)
-5. [Inspiration](#inspiration)
+5. [Screenshots](#screenshots)
 6. [Contact](#contact)
 
 ## General info
@@ -45,6 +45,10 @@ This project requires [NewsAPI](https://newsapi.org) keys.
 ## Features
 * Get the latest news and price of crypto currencies
 * Save crypto currencies to you local storage to track their info.
+
+## Screenshots
+![Screenshot2](./screenshot2.png)
+![Screenshot3](./screenshot3.png)
 
 ## Contact
 Email: kimdooinn1@gmail.com /
