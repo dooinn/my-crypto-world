@@ -1,6 +1,7 @@
 # My Crpto World
 Simple Cyrpto currency tracker app create with React.
 
+![Screenshot1](./screenshot1.png)
 
 ## Table of Contents
 1. [General info](#general-info)
