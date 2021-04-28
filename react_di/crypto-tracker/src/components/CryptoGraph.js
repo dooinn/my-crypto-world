@@ -180,9 +180,6 @@ const CryptoGraph = ({ match }) => {
                     <button className="days__btn" onClick={() => getCoinInfo('max')}>Max</button>
 
                 </div>
-
-
-
                 <Chart>
                     <Line
                         data={chartData}
@@ -195,7 +192,7 @@ const CryptoGraph = ({ match }) => {
             </ContainerBox>
             <ContainerBox>
                 <h2>About {cryptos.name}</h2>
-                {/* <p>{cryptos.description.en}</p> */}
+                <p>{cryptos.description.en}</p>
                 <p>{cryptos.public_notice}</p>
             </ContainerBox>
             <h1>Related news</h1>
